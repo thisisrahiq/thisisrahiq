@@ -1,6 +1,6 @@
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
- # Hello World!, I'm Rahiq, a Bangladeshi Web Developer 👋🏼:
+ # Hello World!, I'm Rahiq, a Web Application Developer 👋🏼:
 🛜 currently working on my own Project<br>👨🏼‍🎓 studied web based computer science at 
 Universität Passau<br>👨🏼‍💻 working as a web developer since 2023
 
